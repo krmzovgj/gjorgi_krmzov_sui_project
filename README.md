@@ -115,8 +115,6 @@ sui client publish --gas-budget 100000000
 
 ## Testnet Deployment Info
 
-> **Fill in after deployment:**
-
 - **Package ID:** `0x731c6831825b7b9533ed1bbda0409cb260b9c64c411ae690c7e422cbf7b606c5`
 - **Transaction Digest:** `Btjzi4ra12vyXrrVEG7z2fsYojLBR7Mpj2BDBc4AKprh`
 - **Sui Explorer:** https://suiscan.xyz/testnet/tx/Btjzi4ra12vyXrrVEG7z2fsYojLBR7Mpj2BDBc4AKprh
